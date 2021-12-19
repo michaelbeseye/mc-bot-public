@@ -37,8 +37,8 @@ let guardPos = null //守衛指令座標資訊
 let firstSpawn = true //偵測是否為重新進入server
 
 const options = {
-  host: IP["fishsont"]["host"],
-  port: "59302",
+  host: IP["aternos"]["host"],
+  // port: "59302",
   username: ACCOUNT["username"],
   password: ACCOUNT["password"],
   logErrors: false,

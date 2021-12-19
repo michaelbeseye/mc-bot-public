@@ -7,6 +7,12 @@ mc-bot 是基於 [PrismarineJS Mineflayer](https://github.com/PrismarineJS/minef
 
 ## 準備事項
 
+你需要使用到的工具：
+- CLI （命令列介面）
+- IDE （整合開發環境）  
+
+若你沒有使用這些工具的經驗，可以閱讀下方的使用教學。
+
 關於下載與安裝資訊，請參訪我們的 [MC Bot 開發 Notion 頁面](https://zhsont.notion.site/MC-Bot-6425f46ed2784e478b3cf9fa55caac40)。  
 或著你可以直接點選下列的傳送門來快速抵達你需要的資料。
 - [下載教學（從這裡開始！）](https://zhsont.notion.site/484c2047eb4745de957df5b47e9d966e)
